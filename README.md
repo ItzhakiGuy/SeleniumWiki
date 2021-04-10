@@ -1,3 +1,5 @@
+<h1>Selenium Wikipedia</h1>
+
 This is a selenium test over wikipedia main site.
 It tests basic functionality of the Selenium framework.
 
